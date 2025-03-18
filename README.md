@@ -90,11 +90,11 @@ open up your localhost:8080
 
 	newgrp docker
 	
-# vi. Configure EC2 as self-hosted runner:
+## vi. Configure EC2 as self-hosted runner:
     setting>actions>runner>new self hosted runner> choose os> then run command one by one
 
 
-# vii. Setup github secrets:
+## vii. Setup github secrets:
 
     AWS_ACCESS_KEY_ID=
 
