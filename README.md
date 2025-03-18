@@ -105,3 +105,7 @@ open up your localhost:8080
     AWS_ECR_LOGIN_URI = 751792482739.dkr.ecr.us-east-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = askbot
+
+    AWS_BUCKET_NAME = 
+
+    GROQ_API_KEY = 
