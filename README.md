@@ -1,6 +1,8 @@
 # ask-your-document
 RAG | LangChain | Chromadb | S3 | EC2 | Upload your document and ask queries about it!
 
+![Output Image](out.png)
+
 ### STEPS:
 
 
